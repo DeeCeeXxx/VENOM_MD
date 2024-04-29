@@ -1,21 +1,21 @@
 <p align="center">  
-  <a href="https://whatsapp.com/channel/0029VaPGt3QEwEjpBXT4Rv0z">
+  <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j">
     <img alt="Asta" height="300" src="https://telegra.ph/file/e3d7f8c20114d76b33a98.jpg">
-    <h1 align="center">ASTA-MD 2.5.O</h1>
+    <h1 align="center">WASI MD V2</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Astropeda"><img title="Author" src="https://img.shields.io/badge/ASTROPEDA-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaPGt3QEwEjpBXT4Rv0z"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/2349027862116"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Itxxwasi"><img title="Author" src="https://img.shields.io/badge/Itxxwasi-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/923192173398"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Astropeda?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Astropeda?label=Followers&style=social"></a>
+<a href="https://github.com/Itxxwasi?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Itxxwasi?label=Followers&style=social"></a>
 <a href="https://github.com/Astropeda/Asta-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Astropeda/Asta-Md?&style=social"></a>
 <a href="https://github.com/Astropeda/Asta-Md/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Astropeda/Asta-Md?style=social"></a>
 <a href="https://github.com/Astropeda/Asta-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Astropeda/Asta-Md?label=Watching&style=social"></a>
 </p>
 
 ####  
-ASTA-MD- Simple Multi Device whatsapp bot.
+WASI MD V2- Simple Multi Device whatsapp bot.
 
 ***
 
@@ -23,18 +23,18 @@ ASTA-MD- Simple Multi Device whatsapp bot.
 
 1. Fork the repo
     <br>
-<a href='https://github.com/Astropeda/Asta-Md/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Itxxwasi/WASI-MD-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
 2. Get Session ID (PAIRING)
     <br>
-<a href='https://ssssssssssssss-f63e67a3181f.herokuapp.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://wasimdscanner-68feefafb737.herokuapp.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 3. Get Session ID (SCAN QR)
     <br>
-<a href='https://asta-app-52c5fcbed3fa.herokuapp.com/qr' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://wasimdscanner-68feefafb737.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 #### DEPLOY TO HEROKU
@@ -45,7 +45,7 @@ ASTA-MD- Simple Multi Device whatsapp bot.
 
 2. If you Have Heroku Deploy Now
     <br>
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Astropeda/Asta-Md"> <img src="https://img.shields.io/badge/heroku%20Deploy-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Itxxwasi/WASI-MD-V2"> <img src="https://img.shields.io/badge/heroku%20Deploy-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ```
 Make Sure Run this on a Heroku Teams Not Personal Heroku, I recommed using it Eco Dynos too.
@@ -115,8 +115,3 @@ Make Sure Run this on a Heroku Teams Not Personal Heroku, I recommed using it Ec
 <h2 align="center">  NOTICE
 </h2>
    
-## 
-- Not For Sale
-- If A plugin's code is obfuscated , You don't have permission to edit it in any form 
-- Don't Forget to Give Credits If you are using or Reuploading My Plugins/files
-- Have A Good Day Ahead
