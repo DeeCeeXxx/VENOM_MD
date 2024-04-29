@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VaPGt3QEwEjpBXT4Rv0z">
-    <img alt="Asta" height="300" src="https://i.imgur.com/lIo3cM2.jpeg">
+    <img alt="Asta" height="300" src="https://telegra.ph/file/e3d7f8c20114d76b33a98.jpg">
     <h1 align="center">ASTA-MD 2.5.O</h1>
   </a>
 </p>
