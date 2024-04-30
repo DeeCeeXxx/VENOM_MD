@@ -6,7 +6,7 @@
    "type": "commonjs",
    "scripts": {
       "run": "pm2 start . --deep-monitoring --attach --name Itxxwasi || node .",
-      "asta": "pm2 start . --deep-monitoring --attach --name Itxxwasi || node .",
+      "Itxxwasi ": "pm2 start . --deep-monitoring --attach --name Itxxwasi || node .",
       "start": "pm2 start . --attach --name AstroPatch",
       "stop": "pm2 stop Itxxwasi",
       "heroku-postbuild": "git clone https://github.com/Itxxwasi/WASI-MD-V2.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
