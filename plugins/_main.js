@@ -126,7 +126,7 @@ smd({
   pattern: "chat",
   desc: "chat with an AI",
   category: "ai",
-  use: "<Hii, Astropeda>",
+  use: "<Hii, wasi-ser>",
   filename: __filename
 }, async (_0x1c0160, _0x482db1) => {
   try {
@@ -139,7 +139,7 @@ smd({
   pattern: "gpt",
   desc: "chat with an AI",
   category: "ai",
-  use: "<Hii, Astropeda>",
+  use: "<Hii, wasi-ser>",
   filename: __filename
 }, async (_0x5cb388, _0x302ad5) => {
   try {
@@ -193,7 +193,7 @@ smd({
   alias: ["dall", "dall-e"],
   desc: "chat with an AI",
   category: "ai",
-  use: "<Hii, Astropeda>",
+  use: "<Hii, wasi-ser>",
   filename: __filename
 }, async (_0x21be87, _0x17d498) => {
   try {
@@ -488,8 +488,8 @@ smd({
   try {
     let {
       data: _0x44f98c
-    } = await axios.get("https://api.github.com/repos/Astropeda/Asta-Md");
-    let _0x1c73f9 = ("\nᴀsᴛᴀ ᴍᴅ ᴀ sɪᴍᴘʟᴇ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ, ᴍᴀᴅᴇ ʙʏ ᴀsᴛʀᴏᴘᴇᴅᴀ ᴀɴᴅ ᴅᴇᴘʟᴏʏᴇᴅ ʙʏ *" + Config.ownername + "*.\n\n  *❲❒❳ Stars:* " + (_0x44f98c?.stargazers_count || "120+") + " stars\n  *❲❒❳ Forks:* " + (_0x44f98c?.forks_count || "1000+") + " forks\n  *❲❒❳ Authors:* Astropeda\n  *❲❒❳ Created On:* " + (_0x44f98c?.created_at || "undefined") + "\n  *❲❒❳ Repo:* _https://github.com/Astropeda/Asta-Md_\n  *❲❒❳ Scan:* _" + scan + "_" + (Config.caption ? "\n\n" + Config.caption : "")).trim();
+    } = await axios.get("https://api.github.com/repos/Itxxwasi/WASI-MD-V2");
+    let _0x1c73f9 = ("\nWASI-MD-V2 AN CHUDDY BUDDY BOT FOR ENJOYMENT *" + Config.ownername + "*.\n\n  *❲❒❳ Stars:* " + (_0x44f98c?.stargazers_count || "120+") + " stars\n  *❲❒❳ Forks:* " + (_0x44f98c?.forks_count || "1000+") + " forks\n  *❲❒❳ Authors:* wasi-ser\n  *❲❒❳ Created On:* " + (_0x44f98c?.created_at || "undefined") + "\n  *❲❒❳ Repo:* _https://github.com/Itxxwasi/WASI-MD-V2_\n  *❲❒❳ Scan:* _" + scan + "_" + (Config.caption ? "\n\n" + Config.caption : "")).trim();
     return await _0x45da98.sendUi(_0x45da98.jid, {
       caption: _0x1c73f9
     });
@@ -622,7 +622,7 @@ smd({
   alias: ["recognition", "anonychat"],
   desc: "Send message Annonymously",
   category: "ai",
-  use: "<Hii, Astropeda>",
+  use: "<Hii, wasi-ser>",
   filename: __filename
 }, async (_0x358984, _0x20693a, {
   smd: _0x12d243
@@ -728,7 +728,7 @@ smd({
   pattern: "aitts",
   desc: "Text to Voice Using Eleven Lab Ai",
   category: "ai",
-  use: "<Hii, Astropeda>",
+  use: "<Hii, wasi-ser>",
   filename: __filename
 }, async (_0x1a01af, _0x1ac85a) => {
   await aitts(_0x1a01af, _0x1ac85a || _0x1a01af.reply_text);
