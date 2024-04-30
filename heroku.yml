@@ -1,6 +1,6 @@
  #heroku.yml file data to run Container
  build:
    docker:
-       web: Dockerfile
+       web: WASI_MD
  run:
    web: npm start
