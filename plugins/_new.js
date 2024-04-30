@@ -20,7 +20,7 @@ let {
     filename: __filename,
   },
   async (message) => {
-    const channelMessage = `𝘼𝙎𝙏𝘼 𝙈𝘿 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 𝙎𝙐𝙋𝙋𝙊𝙍𝙏\n\n _ʜᴇʏ ʜᴇʀᴇ's ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ, ᴘʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ ᴜs ᴛᴏ ᴋᴇᴇᴘ ᴛʜɪs ᴘʀᴏᴊᴇᴄᴛ ᴀʟɪᴠᴇ_\n *ʟɪɴᴋ:* https://whatsapp.com/channel/0029VaPGt3QEwEjpBXT4Rv0z\n\n ${Config.botname} *WORKS*`;
+    const channelMessage = `WASI MD V2 SUPPORT CHANNLE\n\n _ʜᴇʏ ʜᴇʀᴇ's ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ, ᴘʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ ᴜs ᴛᴏ ᴋᴇᴇᴘ ᴛʜɪs ᴘʀᴏᴊᴇᴄᴛ ᴀʟɪᴠᴇ_\n *ʟɪɴᴋ:* https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j\n\n ${Config.botname} *WORKS*`;
 
     const contextInfo = {
       forwardingScore: 999,
@@ -39,7 +39,7 @@ smd(
     filename: __filename,
   },
   async (message) => {
-    const SupportMsg = `𝘼𝙎𝙏𝘼 𝙈𝘿 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙂𝙧𝙤𝙪𝙥\n\n *ʟɪɴᴋ:* https://chat.whatsapp.com/GzKCborGlGN41XSHtslLri\n\n ${Config.botname} *WORKS*`;
+    const SupportMsg = `WASI MD SUPPORT GROUP V2\n\n *ʟɪɴᴋ:* https://chat.whatsapp.com/Dd2RCJsumFWBfQ6290pDy8\n\n ${Config.botname} *WORKS*`;
 
     const contextInfo = {
       forwardingScore: 999,
@@ -74,7 +74,7 @@ smd(
        contextInfo: {
          ...(await _0x1cec94.bot.contextInfo("ACTIVE USERS", _0x1cec94.senderName))
        }
-     }, "asta", _0x1cec94);
+     }, "wasi", _0x1cec94);
    } catch (_0x225db9) {
      console.log({
        e: _0x225db9
@@ -137,7 +137,7 @@ smd(
          ...(await _0x297641.bot.contextInfo("HISTORY"))
        },
        mentions: [..._0x38bc51]
-     }, "asta", _0x297641);
+     }, "wasi", _0x297641);
    } catch (_0x48863b) {
      await _0x297641.error(_0x48863b + "\n\ncommand : cmdused", _0x48863b, "*ERROR!*");
    }
@@ -160,7 +160,7 @@ smd(
            thumbnail: await smdBuffer(await _0x17bb63.getpp())
          }
        }
-     }, "asta");
+     }, "wasi");
    } catch (_0x2ace2e) {}
  });
  smd({
@@ -198,7 +198,7 @@ smd(
        return await _0x7587f6.reply("_Reply to an image/video message!_");
      }
      if (!_0x11eeb1) {
-       return await _0x7587f6.reply("_Need fileName, Example: document asta | caption_");
+       return await _0x7587f6.reply("_Need fileName, Example: document wasi | caption_");
      }
      let _0x1bfcf5 = await _0x7587f6.bot.downloadAndSaveMediaMessage(_0x49db20);
      let _0x3f6d77 = _0x11eeb1.includes(":") ? ":" : _0x11eeb1.includes(";") ? ";" : "|";
@@ -265,23 +265,23 @@ smd(
      try {
        let {
          key: _0x2d7cf6
-       } = await _0x4e7c63.send("Counting... 0", {}, "asta", _0x4e7c63);
+       } = await _0x4e7c63.send("Counting... 0", {}, "wasi", _0x4e7c63);
        for (let _0x16a10f = 0; _0x16a10f <= _0x4cf8ed; _0x16a10f++) {
          if (_0x16a10f % 15 === 0) {
            await _0x4e7c63.send("Counting... " + _0x16a10f, {
              edit: _0x2d7cf6
-           }, "asta", _0x4e7c63);
+           }, "wasi", _0x4e7c63);
          } else if (_0x4cf8ed - _0x16a10f < 10) {
            await _0x4e7c63.send("Counting... " + _0x16a10f, {
              edit: _0x2d7cf6
-           }, "asta", _0x4e7c63);
+           }, "wasi", _0x4e7c63);
          }
        }
        await _0x4e7c63.send("*Feature Counting Done!*", {
          edit: _0x2d7cf6
-       }, "asta", _0x4e7c63);
+       }, "wasi", _0x4e7c63);
      } catch (_0x28ce7e) {}
-     let _0x50f17a = " *乂 𝒜𝒮𝒯𝒜 ℳ𝒟 - ＢＯＴ ＦＥＡＴＵＲＥ*\n\n\n  ◦ _Total Features ➪ " + _0x4cf8ed + "_\n  \n*◦ LIST DOWN THE FEATURES*\n\n      _Commands ➪ " + Object.values(_0x4de967.commands).filter(_0x54d4bf => _0x54d4bf.pattern).length + "_\n      _Msg Listener ➪ " + Object.values(_0x4de967.commands).filter(_0x2376a3 => _0x2376a3.on).length + "_\n      _Call Listener ➪ " + Object.values(_0x4de967.commands).filter(_0x54a19b => _0x54a19b.call).length + "_\n      _Group Listener ➪ " + Object.values(_0x4de967.commands).filter(_0x35381c => _0x35381c.group).length + "_\n  \n\n" + Config.caption;
+     let _0x50f17a = " *乂 wasi� ℳ𝒟 - ＢＯＴ ＦＥＡＴＵＲＥ*\n\n\n  ◦ _Total Features ➪ " + _0x4cf8ed + "_\n  \n*◦ LIST DOWN THE FEATURES*\n\n      _Commands ➪ " + Object.values(_0x4de967.commands).filter(_0x54d4bf => _0x54d4bf.pattern).length + "_\n      _Msg Listener ➪ " + Object.values(_0x4de967.commands).filter(_0x2376a3 => _0x2376a3.on).length + "_\n      _Call Listener ➪ " + Object.values(_0x4de967.commands).filter(_0x54a19b => _0x54a19b.call).length + "_\n      _Group Listener ➪ " + Object.values(_0x4de967.commands).filter(_0x35381c => _0x35381c.group).length + "_\n  \n\n" + Config.caption;
      await _0x4e7c63.bot.relayMessage(_0x4e7c63.chat, {
        requestPaymentMessage: {
          currencyCodeIso4217: "NG",
@@ -320,7 +320,7 @@ smd(
    let _0x3b31ed = "Character of @" + _0x32c078.split("@")[0] + "  is *" + _0x2f5d93 + "* 🔥⚡";
    _0x2a677e.send(_0x3b31ed, {
      mentions: [_0x32c078]
-   }, "asta", _0x2a677e);
+   }, "wasi", _0x2a677e);
  });
  smd({
    cmdname: "poetry",
@@ -471,11 +471,11 @@ smd(
    cmdname: "ss",
    type: "misc",
    info: "get randome poetry lines"
- }, async (_0x4cdec8, _0x41dfb5) => {
+ }, async (_0x4cdec8, _0x41dfb5) => 
    try {
      let _0x587b99 = _0x41dfb5.split(" ")[0].trim();
      if (!_0x587b99) {
-       return await _0x4cdec8.reply("*Need URL! Use " + prefix + "ss https://github.com/Astropeda/Asta-Md*");
+       return await _0x4cdec8.reply("*Need URL! Use " + prefix + "ss https://chat.whatsapp.com/Dd2RCJsumFWBfQ6290pDy8*");
      }
      let _0x358290 = await ssweb(_0x587b99);
      if (_0x358290 && _0x358290.status == "200") {
