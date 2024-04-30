@@ -75,7 +75,7 @@ const {
 *Followers:* ${followers}
 *Following:* ${following}
 
-\t*ASTA IG STALKER*
+\t*WASI IG STALKER*
 `;
 
       await m.bot.sendFromUrl(m.from, photo_profile, caption, m, {}, "image");
@@ -630,7 +630,7 @@ smd(
          let _0x13ee38 = await getBuffer(_0x3c2608);
          await _0x19df48.reply(_0x13ee38, {
            packname: Config.packname,
-           author: "Asta-Md"
+           author: "WASI-Md"
          }, "sticker");
        } else {
          await _0x19df48.bot.sendMessage(_0x19df48.chat, {
@@ -802,7 +802,7 @@ smd(
            const sticker = await getBuffer(fileUrl);
            await message.reply(
              sticker,
-             { packname: Config.packname, author: "Asta-Md" },
+             { packname: Config.packname, author: "WASI-Md-V2" },
              "sticker"
            );
          } else {
@@ -1152,7 +1152,7 @@ smd(
          : "";
        if (!_0x1c586e) {
          return await _0x1ae8f8.reply(
-           "*Provide Repo Url, _.gitclone https://github.com/Astropeda/Asta-Md_*"
+           "*Provide Repo Url, _.gitclone https://github.com/Itxxwasi/WASI-MD-V2_*"
          );
        }
        const _0x5906ab =
@@ -1197,12 +1197,12 @@ smd(
    desc: "text to speech.",
    category: "downloader",
    filename: __filename,
-   use: "<Hii,this is Asta>"
+   use: "<Hii,this is WASI>"
  }, async (_0x55aba2, _0x56da6b) => {
    try {
      let _0x204f81 = _0x55aba2.reply_text ? _0x55aba2.reply_text : _0x56da6b;
      if (!_0x204f81) {
-       return _0x55aba2.reply("*_Example : .tts Hi,I am Asta-Md whatsapp bot._*");
+       return _0x55aba2.reply("*_Example : .tts Hi,I am WASI-Md whatsapp bot._*");
      }
      try {
        let _0x1974d5 = _0x56da6b ? _0x56da6b.split(" ")[0].toLowerCase() : "en";
@@ -1217,7 +1217,7 @@ smd(
          },
          mimetype: "audio/mpeg",
          ptt: true,
-         fileName: "Asta-Md-tts.m4a"
+         fileName: "WASI-Md-tts.m4a"
        }, {
          quoted: _0x55aba2
        });
@@ -1233,7 +1233,7 @@ smd(
          },
          mimetype: "audio/mpeg",
          ptt: true,
-         fileName: "Asta-Md-tts.m4a"
+         fileName: "WASI-Md-tts.m4a"
        }, {
          quoted: _0x55aba2
        });
@@ -1420,7 +1420,7 @@ smd(
      };
      let _0x4737bb = {
        audio: _0x2ba501,
-       fileName: "Asta-Md tiktok Sound" + _0x19c223 + ".m4a",
+       fileName: "WASU-Md tiktok Sound" + _0x19c223 + ".m4a",
        mimetype: "audio/mpeg",
        ptt: true,
        contextInfo: _0x29fdd9
@@ -1974,7 +1974,7 @@ smd(
          url: _0x59bbaa
        },
        mimetype: "audio/mpeg",
-       fileName: "Asta-Md--" + _0x1d542b[1] + ".mp3",
+       fileName: "WASI-Md--" + _0x1d542b[1] + ".mp3",
        caption: Config.caption,
        contextInfo: _0x10e2fa
      };
