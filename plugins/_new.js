@@ -20,7 +20,7 @@ let {
     filename: __filename,
   },
   async (message) => {
-    const channelMessage = `𝘼𝙎𝙏𝘼 𝙈𝘿 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 𝙎𝙐𝙋𝙋𝙊𝙍𝙏\n\n _ʜᴇʏ ʜᴇʀᴇ's ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ, ᴘʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ ᴜs ᴛᴏ ᴋᴇᴇᴘ ᴛʜɪs ᴘʀᴏᴊᴇᴄᴛ ᴀʟɪᴠᴇ_\n *ʟɪɴᴋ:* https://whatsapp.com/channel/0029VaPGt3QEwEjpBXT4Rv0z\n\n ${Config.botname} *WORKS*`;
+    const channelMessage = `𝐖𝐀𝐒𝐈 𝐓𝐄𝐂𝐇 𝐎𝐅𝐅𝐈𝐂𝐀𝐋 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐂𝐇𝐀𝐍𝐍𝐋𝐄 𝐅𝐎𝐋𝐋𝐎𝐖 𝐑𝐄𝐐_\n *𝐋𝐈𝐍𝐊:* https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j\n\n ${Config.botname} *WORKS*`;
 
     const contextInfo = {
       forwardingScore: 999,
@@ -39,7 +39,7 @@ smd(
     filename: __filename,
   },
   async (message) => {
-    const SupportMsg = `𝘼𝙎𝙏𝘼 𝙈𝘿 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙂𝙧𝙤𝙪𝙥\n\n *ʟɪɴᴋ:* https://chat.whatsapp.com/GzKCborGlGN41XSHtslLri\n\n ${Config.botname} *WORKS*`;
+    const SupportMsg = `𝐖𝐀𝐒𝐈 𝐌𝐃 𝐕2 𝐎𝐅𝐅𝐈𝐂𝐀𝐋 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏\n\n *ʟɪɴᴋ:*https://chat.whatsapp.com/Dd2RCJsumFWBfQ6290pDy8 \n\n ${Config.botname} *WORKS*`;
 
     const contextInfo = {
       forwardingScore: 999,
@@ -69,7 +69,7 @@ smd(
        return await _0x1cec94.reply("_No messages found!_");
      }
      const _0x338160 = Object.entries(_0x5af784).map(([_0x4630e3, _0x3a7f93]) => "\t*" + (_0x4630e3?.split("\n").join(" ") || "unknown") + "*  ➪  _" + _0x3a7f93 + "_").join("\n");
-     var _0x370694 = ("*LIST OF ACTIVE USERS IN CURRENT CHAT*\n_Note: Sometimes Data will be reset when bot restart!_\n\n*Total Users: _" + _0x599777.length + "_*\n\n*USERNAME ➪ MESSAGE COUNT(s)*\n" + _0x338160 + "\n\n" + Config.caption).trim();
+     var _0x370694 = ("*𝐋𝐈𝐒𝐓 𝐎𝐅 𝐀𝐂𝐓𝐈𝐕𝐄 𝐔𝐒𝐄𝐑*\n_Note: Sometimes Data will be reset when bot restart!_\n\n*Total Users: _" + _0x599777.length + "_*\n\n*USERNAME ➪ MESSAGE COUNT(s)*\n" + _0x338160 + "\n\n" + Config.caption).trim();
      await _0x1cec94.send(_0x370694, {
        contextInfo: {
          ...(await _0x1cec94.bot.contextInfo("ACTIVE USERS", _0x1cec94.senderName))
