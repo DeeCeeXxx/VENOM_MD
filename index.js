@@ -14,3 +14,6 @@ const start = async () => {
   }
 }
 start();
+/**
+WASI TECH WHATSAPPP BOT
+**/
