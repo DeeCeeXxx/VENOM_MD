@@ -203,7 +203,7 @@ astro_patch.smd(
   {
     cmdname: "menu",
     desc: "Help list",
-    react: "📃",
+    react: "📁",
     desc: "To show all avaiable commands.",
     type: "user",
     filename: __filename,
@@ -264,11 +264,11 @@ astro_patch.smd(
         Config.menu.toLowerCase().includes("menu1")
       ) {
         menuThemeHeader = "╭━━━〔 *" + Config.botname + "* 〕━━━┈⊷";
-        menuThemeCommandPrefix = "┃✵│";
-        menuThemeFooter = "┃✵╰──────────────\n╰━━━━━━━━━━━━━━━┈⊷";
+        menuThemeCommandPrefix = "┃💀│";
+        menuThemeFooter = "┃💀╰──────────────\n╰━━━━━━━━━━━━━━━┈⊷";
         menuThemeCategoryHeader = "╭─────────────┈⊷\n│「";
         menuThemeCategoryFooter = "」\n╰┬────────────┈⊷";
-        menuThemeCommandPrefix = "││◦➛";
+        menuThemeCommandPrefix = "││◦💀";
         menuThemeCommandFooter = "│╰────────────┈⊷\n╰─────────────┈⊷";
       } else if (
         menuThemeType === 2 ||
@@ -276,12 +276,12 @@ astro_patch.smd(
         Config.menu.toLowerCase().includes("menu2")
       ) {
         menuThemeHeader = "╭═══ *" + Config.botname + "* ═══⊷\n┃❃╭──────────────";
-        menuThemeCommandPrefix = "┃❃│";
-        menuThemeFooter = "┃❃╰───────────────\n╰═════════════════⊷";
+        menuThemeCommandPrefix = "┃💀│";
+        menuThemeFooter = "┃💀╰───────────────\n╰═════════════════⊷";
         menuThemeCategoryHeader = "╭─❏";
         menuThemeCategoryFooter = "❏";
-        menuThemeCommandPrefix = "┃❃│";
-        menuThemeCommandFooter = "┃❃╰───────────────\n╰═════════════════⊷";
+        menuThemeCommandPrefix = "┃💀│";
+        menuThemeCommandFooter = "┃💀╰───────────────\n╰═════════════════⊷";
       } else {
         menuThemeHeader = "╭〘  " + Config.botname + "  〙";
         menuThemeCommandPrefix = "│ │";
@@ -318,7 +318,7 @@ ${menuThemeCommandPrefix} *ᴄᴏᴍᴍᴀɴᴅs:* ${commands.length}
 ${menuThemeCommandPrefix} *ᴜsᴀɢᴇ ᴛʀᴇɴᴅ:* ${trend_usage}
 ${menuThemeCommandPrefix} *ᴅᴀᴛᴀʙᴀsᴇ:* ${database_info}
 ${menuThemeFooter}                         
-*ᴀsᴛᴀ ᴘᴀᴛᴄʜ 𝟸.5.𝟶*
+*𝚆𝙰𝚂𝙸-𝙼𝙳-𝚅2*
 ${readmore}`;
 
       for (const category in categorizedCommands) {
