@@ -39,12 +39,12 @@
             "dot": "Hi, Did you mean *-help?*\n just.. don't bother me while I'm eating ramen",
             "couple_male": "*I'm pretty sure I can't live without being helped!*",
             "couple_female": "*I'm pretty sure I can't live without being helped!*",
-            "admin": "Only Group Admin can use this Command.",
+            "admin": "𝘖𝘯𝘭𝘺 𝘎𝘳𝘰𝘶𝘱 𝘈𝘥𝘮𝘪𝘯 𝘤𝘢𝘯 𝘶𝘴𝘦 𝘵𝘩𝘪𝘴 𝘊𝘰𝘮𝘮𝘢𝘯𝘥.",
             "botAdmin": "Make me an Admin to take action.",
-            "owner": "It's for my owner only.",
-            "group": "It's for group only.",
-            "private": "It for my Owner only.",
-            "bot": "It is for my Owner Only.",
+            "owner": "𝙸𝚝'𝚜 𝚏𝚘𝚛 𝚖𝚢 𝚘𝚠𝚗𝚎𝚛 𝚘𝚗𝚕𝚢.",
+            "group": "𝙸𝚝'𝚜 𝚏𝚘𝚛 𝚐𝚛𝚘𝚞𝚙 𝚘𝚗𝚕𝚢.",
+            "private": "𝙸𝚝 𝚏𝚘𝚛 𝚖𝚢 𝙾𝚠𝚗𝚎𝚛 𝚘𝚗𝚕𝚢.",
+            "bot": "𝙸𝚝 𝚒𝚜 𝚏𝚘𝚛 𝚖𝚢 𝙾𝚠𝚗𝚎𝚛 𝙾𝚗𝚕𝚢.",
             "wait": "Processing..."
         },
         "error": {
