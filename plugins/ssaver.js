@@ -117,12 +117,12 @@ smd({ on: "status" }, async (message, text) => {
 
 smd(
   {
-    cmdname: "asta",
+    cmdname: "wasiv2",
     desc: "total Users Currently using asta",
   },
   async (message, text) => {
     try {
-      message.send(`An Estimated 60+ Users On Asta_Md`.trim());
+      message.send(`An Estimated 120+ Users On Wasi-md-v2`.trim());
     } catch (e) {
       console.error("Error:", e);
       message.reply(`*ERROR!* `);
