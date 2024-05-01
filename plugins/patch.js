@@ -188,7 +188,7 @@ smd(
           }
         }
 
-        return await message.send("`ASTA MD UPDATE WAS SUCCESSFULL ✅`");
+        return await message.send("`wasi-MD UPDATE WAS SUCCESSFULL ✅`");
       } else {
         return await message.send(
           "*Auto Updated Failed, Unable to Download Update Please Manually Do It*"
@@ -547,7 +547,7 @@ astro_patch.smd(
     );
   }
 );
-smd(
+/**smd(
   {
     pattern: "alive",
     desc: "Shows system status with different designs.",
@@ -652,7 +652,7 @@ smd(
       );
     }
   }
-);
+);**/
 smd(
   {
     pattern: "runtime",
