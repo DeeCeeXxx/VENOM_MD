@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j">
-    <img alt="Asta" height="300" src="https://telegra.ph/file/e3d7f8c20114d76b33a98.jpg">
+    <img alt="wasi" height="300" src="https://telegra.ph/file/e3d7f8c20114d76b33a98.jpg">
     <h1 align="center">WASI MD V2</h1>
   </a>
 </p>
@@ -9,108 +9,50 @@
 <p/>
 <p align="center">
 <a href="https://github.com/Itxxwasi?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Itxxwasi?label=Followers&style=social"></a>
-<a href="https://github.com/Astropeda/Asta-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Astropeda/Asta-Md?&style=social"></a>
-<a href="https://github.com/Astropeda/Asta-Md/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Astropeda/Asta-Md?style=social"></a>
-<a href="https://github.com/Astropeda/Asta-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Astropeda/Asta-Md?label=Watching&style=social"></a>
+<a href="https://github.com/Itxxwasi/WASI-MD-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itxxwasi/WASI-MD-V2?&style=social"></a>
+<a href="https://github.com/Itxxwasi/WASI-MD-V2/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Itxxwasi/WASI-MD-V2?style=social"></a>
+<a href="https://github.com/Itxxwasi/WASI-MD-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Itxxwasi/WASI-MD-V2?label=Watching&style=social"></a>
 </p>
 
 ####  
-WASI MD V2- Simple Multi Device whatsapp bot.
+𝕎𝔸𝕊𝕀 𝕄𝔻 𝕍𝟚- 𝕊𝕚𝕞𝕡𝕝𝕖 𝕄𝕦𝕝𝕥𝕚 𝔻𝕖𝕧𝕚𝕔𝕖 𝕨𝕙𝕒𝕥𝕤𝕒𝕡𝕡 𝕓𝕠𝕥.
 
-***
 
 #### SETUP
 
-1. Fork the repo
+1.𝔽𝕠𝕣𝕜 𝕥𝕙𝕖 𝕣𝕖𝕡𝕠
     <br>
-<a href='https://github.com/Itxxwasi/WASI-MD-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Itxxwasi/WASI-MD-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
 
 
 
-2. Get Session ID (PAIRING)
+2.𝔾𝕖𝕥 𝕊𝕖𝕤𝕤𝕚𝕠𝕟 𝕀𝔻 (ℙ𝔸𝕀ℝ𝕀ℕ𝔾)
     <br>
-<a href='https://wasimdscanner-68feefafb737.herokuapp.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://wasimdscanner-68feefafb737.herokuapp.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
 
 
-3. Get Session ID (SCAN QR)
+3.𝔾𝕖𝕥 𝕊𝕖𝕤𝕤𝕚𝕠𝕟 𝕀𝔻 (𝕊ℂ𝔸ℕ ℚℝ)
     <br>
-<a href='https://wasimdscanner-68feefafb737.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://wasimdscanner-68feefafb737.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
 
 
-#### DEPLOY TO HEROKU
-
-1. If You don't have an account in Heroku. Create a account.
-    <br>
-<p align="center"><a href="https://signup.heroku.com"> <img src="https://img.shields.io/badge/heroku%20Account-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
-2. If you Have Heroku Deploy Now
-    <br>
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Itxxwasi/WASI-MD-V2"> <img src="https://img.shields.io/badge/heroku%20Deploy-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
-```
-Make Sure Run this on a Heroku Teams Not Personal Heroku, I recommed using it Eco Dynos too.
-```
-
-#### DEPLOY TO KOYEB
-
-1. if you don't have a koyeb account. Create an account.
-   <br>
-   <p align="center"><a href="https://app.koyeb.com/auth/signup"> <img src="https://img.shields.io/badge/Koyeb account-blue?style=for-the-badge&logo=koyeb" width="220" height="38.45"/></a></p>
-
-2. Deploy on Koyeb
-   <br>
-   <p align="center"><a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Astropeda/Asta-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=2348039607375&env[MONGODB_URI]&&env[OWNER_NAME]=Asta&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Asta+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=Whatsappbot&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Lagos&name=asta-md&env[KOYEB_NAME]=asta-md&env[SUDO]=null&env[THUMB_IMAGE]=https://imgur.com/dMwGOUP.jpg"> <img src="https://img.shields.io/badge/Koyeb account-blue?style=for-the-badge&logo=koyeb" width="220" height="38.45"/></a></p>
-
-
-
-
-#### DEPLOY TO RAILWAY
-
-1. If You don't have an account On Railway. Create a account.
-    <br>
-<p align="center"><a href="https://railway.app"> <img src="https://img.shields.io/badge/RailWay%20Account-blue?style=for-the-badge&logo=Railway" width="220" height="38.45"/></a></p>
-
- - Fork and star this repo.
-- Now head towards https://railway.app/new, select Deploy from repo.
-- Now select the forked repository, select branch.
-- Now go to <b>Variables</b> and add variable listed below.
-   - DATABASE_URL, SESSION_ID, REMOVEBG_KEY, PREFIX
-- Go to <b>Deployments</b> and wait for deplyment to complete.
-- and you're good to go.
+#### 𝕕𝕖𝕡𝕝𝕠𝕪𝕞𝕖𝕟𝕥 𝕤𝕖𝕔𝕥𝕚𝕠𝕟
+# <a href="https://dashboard.heroku.com/new?template=https://github.com/Itxxwasi/WASI-MD-V2"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=green&style=for-the-badge&logo=msi"></a>
+# <a href="https://railway.app/template/tM2McB?referralCode=v7Xehd"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RAILWAY-h?color=green&style=for-the-badge&logo=msi"></a>
+# <a href="(https://replit.com/github/Itxxwasi/WASI-MD-V2"><img title="raplir" src="https://img.shields.io/badge/RAPLIT-h?color=green&style=for-the-badge&logo=msi"></a>
+# <a href="https://wasimd-9dedcea2edba.herokuapp.com/"><img title="koyeb" src="https://img.shields.io/badge/DEPLOY ON KYOEB-h?color=green&style=for-the-badge&logo=msi"></a>
+### 𝕋ℍ𝔸ℕ𝕂𝕊 𝕋𝕆
+ [`ASTROPED FOR PLUGINS `](https://github.com/astroped)
+  [`ibrahim-tech-for-help`](https://github.com/ibrahimaitech)
   
-#### DEPLOY TO OKTETO ( okteto ending it's free tier on January 15, 2024)
 
-1. If You don't have an account On Okteto. Create a account.
-    <br>
-<p align="center"><a href="https://www.okteto.com/pricing/?plan=SaaS"> <img src="https://img.shields.io/badge/Okteto%20Account-blue?style=for-the-badge&logo=okteto" width="220" height="38.45"/></a></p>
 
- - Fork and star this repo.
-- Now head towards Lunch Dev Environment
-- Now select the forked GURU BOT repository.
-- Now go to <b>Variables</b> and add variable listed below.
-   - DATABASE_URL, SESSION_ID, REMOVEBG_KEY, PREFIX
-- Then Click Lunch and wait for deplyment to complete.
-- and you're good to go.
-
-2. TUTORIAL (Never)
-#### DEPLOY TO Replit (This shit also Going paid)
-
-1. If You don't have an account in Replit. Create an account.
-    <br>
-<p align="center"><a href="https://replit.com/signup"> <img src="https://img.shields.io/badge/replit%20Account-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
-
-2. Now Deploy
-    <br>
-<p align="center"><a href="https://repl.it/github/Astropeda/Asta-Md"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
-
-- Star ⭐ the repo if you like ASTA-MD.
 
    
-## WARNING
-- This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
-- I am not responsible for banning your account.
-- Use at your own risk by keeping this warning in mind.
-
+## 𝕎𝔸ℝℕ𝕀ℕ𝔾
+- 𝘛𝘩𝘪𝘴 𝘣𝘰𝘵 𝘪𝘴 𝘯𝘰𝘵 𝘮𝘢𝘥𝘦 𝘣𝘺 `𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 𝘐𝘯𝘤.` 𝘚𝘰 𝘮𝘪𝘴𝘶𝘴𝘪𝘯𝘨 𝘵𝘩𝘦 𝘣𝘰𝘵 𝘮𝘪𝘨𝘩𝘵 `𝘣𝘢𝘯` 𝘺𝘰𝘶𝘳 `𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 𝘢𝘤𝘤𝘰𝘶𝘯𝘵!`(𝘛𝘩𝘰𝘶𝘨𝘩 𝘺𝘰𝘶𝘳 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 𝘢𝘤𝘤𝘰𝘶𝘯𝘵 𝘤𝘢𝘯 𝘣𝘦 𝘶𝘯𝘣𝘢𝘯𝘯𝘦𝘥 𝘰𝘯𝘭𝘺 𝘰𝘯𝘤𝘦.)
+- 𝘐 𝘢𝘮 𝘯𝘰𝘵 𝘳𝘦𝘴𝘱𝘰𝘯𝘴𝘪𝘣𝘭𝘦 𝘧𝘰𝘳 𝘣𝘢𝘯𝘯𝘪𝘯𝘨 𝘺𝘰𝘶𝘳 𝘢𝘤𝘤𝘰𝘶𝘯𝘵.
+- 𝘜𝘴𝘦 𝘢𝘵 𝘺𝘰𝘶𝘳 𝘰𝘸𝘯 𝘳𝘪𝘴𝘬 𝘣𝘺 𝘬𝘦𝘦𝘱𝘪𝘯𝘨 𝘵𝘩𝘪𝘴 𝘸𝘢𝘳𝘯𝘪𝘯𝘨 𝘪𝘯 𝘮𝘪𝘯𝘥.
 
 <h2 align="center">  NOTICE
 </h2>
