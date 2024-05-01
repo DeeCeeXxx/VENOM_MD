@@ -673,9 +673,9 @@ smd(
       const contextInfo = {
         isForwarded: true,
         forwardingScore: 999,
-        title: "Asta MD Running Since",
+        title: "wasi MD Running Since",
         body: message,
-        footerText: "Asta MD 2024",
+        footerText: "wasi MD 2024",
         isSendNotificationMsg: true,
         mentionedJid: [],
       };
@@ -1093,7 +1093,7 @@ smd(
       if (!isNaN(_0x56b5d3)) {
         if (
           _0x1eb88a[_0x210c92(367)] > 30 &&
-          _0x1eb88a[1][_0x210c92(362)]("ASTA-MD_FANCY_TEXT")
+          _0x1eb88a[1][_0x210c92(362)]("WASI-MD_FANCY_TEXT")
         ) {
           var _0x7b7a13 = _0x1eb88a[_0x210c92(379)]((_0x4377cc) =>
             _0x4377cc.startsWith(_0x56b5d3 + " ")
