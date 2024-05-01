@@ -15,8 +15,24 @@
 </p>
 
 ####  
-𝕎𝔸𝕊𝕀 𝕄𝔻 𝕍𝟚- 𝕊𝕚𝕞𝕡𝕝𝕖 𝕄𝕦𝕝𝕥𝕚 𝔻𝕖𝕧𝕚𝕔𝕖 𝕨𝕙𝕒𝕥𝕤𝕒𝕡𝕡 𝕓𝕠𝕥.
+# My Awesome Project
 
+Welcome to my awesome project! Here you'll find...
+## YouTube Channel
+
+Check out my YouTube channel for tutorials and more!
+
+[![YouTube Channel](https://img.shields.io/badge/Subscribe-My%20Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@wasitech1)
+## WhatsApp Channel
+
+Join our WhatsApp channel for updates and discussions!
+
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j)
+## WhatsApp Support Group
+
+Join our WhatsApp support group for assistance and discussions!
+
+[![WhatsApp Support Group](https://img.shields.io/badge/Join-WhatsApp%20Support%20Group-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/Dd2RCJsumFWBfQ6290pDy8)
 
 #### SETUP
 
