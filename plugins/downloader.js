@@ -1345,7 +1345,7 @@ smd(
    return false;
  }
  smd({
-   pattern: "play",
+   pattern: "song",
    alias: ["music"],
    desc: "Sends info about the query(of youtube video/audio).",
    category: "downloader",
@@ -1356,7 +1356,7 @@ smd(
      let _0x25d045 = _0x1f76d0 ? _0x1f76d0 : _0x54463e.reply_text;
      var _0x2e913a = _0x25d045.toLowerCase().includes("doc") ? "document" : "audio";
      if (!_0x25d045) {
-       return _0x54463e.reply("*" + prefix + "play back in black*");
+       return _0x54463e.reply("*" + prefix + "*WASI NEW SONG*");
      }
      let _0x2eca3d = ytIdRegex.exec(_0x25d045) || [];
      let _0xb6fd2d = _0x2eca3d[0] || false;
@@ -1667,7 +1667,7 @@ smd(
    }
  );
  smd({
-   pattern: "song",
+   pattern: "play",
    alias: ["audio"],
    desc: "Downloads audio from youtube.",
    category: "downloader",
