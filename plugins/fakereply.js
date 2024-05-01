@@ -17,7 +17,7 @@ const {
         try {
       let types = ["text","order","contact","image" , "video"]
           let args = text.split("|")
-          if(!text || args.length < 3) return await m.reply(`*Use ${prefix}fakereply text |Reply_text|2348039607375|type(text,order,contact,image,video)*`)
+          if(!text || args.length < 3) return await m.reply(`*Use ${prefix}fakereply text |Reply_text|923192173398|type(text,order,contact,image,video)*`)
           let reply = args[0],msg = args[1],num = `${args[2].replace(/[^0-9]/g, '')}@s.whatsapp.net` , type = args[3] && types.includes(args[3])? args[3] :"text", charset = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ',smds = 'SMD';    
           for (let i = 0; i < 13; i++) { smds += charset[Math.floor(Math.random() * charset.length)];  }
           let  fak =await m.bot.fakeMessage(type,{id: smds,remoteJid:m.isGroup? m.chat : num,participant:num},msg) 
