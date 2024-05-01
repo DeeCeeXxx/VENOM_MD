@@ -4,3 +4,4 @@ WORKDIR /root/Itxxwasi
 RUN npm install
 EXPOSE 8000
 CMD ["npm","start" ] 
+# POWERD BY WASI TECH
