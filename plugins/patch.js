@@ -547,13 +547,13 @@ astro_patch.smd(
     );
   }
 );
-/**smd(
+smd(
   {
-    pattern: "alive",
+    pattern: "LIV",
     desc: "Shows system status with different designs.",
     category: "general",
     filename: __filename,
-    use: "alive",
+    use: "LIV",
   },
   async (message, input) => {
     try {
@@ -646,13 +646,13 @@ astro_patch.smd(
       );
     } catch (error) {
       await message.error(
-        error + "\n\nCommand: alive",
+        error + "\n\nCommand: LIV",
         error,
         "*Failed to show status.*"
       );
     }
   }
-);**/
+);
 smd(
   {
     pattern: "runtime",
