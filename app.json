@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "WASI SER",
+      "value": "𝐖𝐀𝐒𝐈-𝐓𝐄𝐂𝐇",
       "required": true
     },
 
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "WASI MD V2"
+      "value": "𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required": false,
-      "value": "Africa/Lagos"
+      "value": "Asia/Karachi"
     },
     "READ_COMMAND": {
       "description": " Read bot cmds",
