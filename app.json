@@ -1,15 +1,15 @@
 {
-  "name": "wasi-md-v2",
+  "name": "drex-md-v2",
   "description": "Simple WhatsApp Bot",
-  "logo": "https://github.com/Itxxwasi/WASI-MD-V2/blob/main/lib/assets/logo.png?raw=true",
-  "keywords": ["WASI-MD-V2", "WASIV2", "WASI MD","WASI MD","wasi","wasitech"],
+  "logo": "https://github.com/drexmose/drex-md-v2/blob/main/lib/assets/logo.png?raw=true",
+  "keywords": ["drex-d-v2", "drexv2", "drex md","drex client","drex","drextech"],
   "success_url": "/",
   "stack": "container",
 
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "𝐖𝐀𝐒𝐈-𝐓𝐄𝐂𝐇",
+      "value": "⟠ 𝐃𝐑𝚺𝐗 ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々",
       "required": true
     },
 
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2"
+      "value": "𝐃𝐑𝐄𝐗-𝐌𝐃-𝐕2"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
-      "required": false,
-      "value": "Asia/Karachi"
+      "required": true,
+      "value": "Africa/Nairobi"
     },
     "READ_COMMAND": {
       "description": " Read bot cmds",
@@ -62,7 +62,7 @@
     "WAPRESENCE": {
       "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
       "required": false,
-      "value": "unavailable"
+      "value": "typing"
     },
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot view your Statuses.",
@@ -72,7 +72,7 @@
     "MSGS_IN_LOG": {
       "description": "Fill the value -true- if you want to see Messages in logs.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "READ_MESSAGE": {
       "description": "Fill the value true if you want bot to read all messages.",
@@ -90,7 +90,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": ""
+      "value": "254102074064"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -102,12 +102,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "WASI",
+      "value": "𝐃𝐑𝐄𝐗 𝐌𝐃 𝐕2",
       "required": false
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
+      "value": "𝐃𝐑𝐄𝐗 𝐌𝐃 𝐕2",
       "required": false
     }
   },
