@@ -2,7 +2,7 @@
 
 ## Supported Versions Node Versions to run this bot
 
-Please Use Node Version Higher to Get The Best Performance.
+Please Use Node Version Higher to Get The Best Performance From The Bot.
 
 | Version | Supported          |
 | ------- | ------------------ |
