@@ -64,6 +64,11 @@
       "required": false,
       "value": "typing"
     },
+    "USER_IMAGES": {
+      "description": "Insert your bot image url here",
+      "required": false,
+      "value": "https://telegra.ph/file/50ae4c0dcae4c72fe39c3.png"
+    },
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot view your Statuses.",
       "required": false,
