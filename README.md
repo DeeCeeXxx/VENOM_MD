@@ -5,7 +5,7 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/drexmose"><img title="Author" src="https://img.shields.io/badge/drexmowe-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vabz7vUJ3jutx2fNsf2P"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/25102074064"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/drexmose"><img title="Author" src="https://img.shields.io/badge/drexmose-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vabz7vUJ3jutx2fNsf2P"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/25102074064"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/drexmosei?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/drexmose?label=Followers&style=social"></a>
