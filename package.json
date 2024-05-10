@@ -1,19 +1,19 @@
 {
-   "name": "wasi-md-v2",
+   "name": "drex-md-v2",
    "version": "2.5.0",
-   "description": "Multi device whatsapp bot by itxxwasi ....",
+   "description": "Multi device whatsapp bot by drexmose",
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
-      "run": "pm2 start . --deep-monitoring --attach --name Itxxwasi || node .",
-      "Itxxwasi ": "pm2 start . --deep-monitoring --attach --name Itxxwasi || node .",
-      "start": "pm2 start . --attach --name Itxxwasi",
-      "stop": "pm2 stop Itxxwasi",
-      "heroku-postbuild": "git clone https://github.com/Itxxwasi/WASI-MD-V2.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
-      "fis-heroku-postbuild": "git clone https://github.com/Itxxwasi/WASI-MD-V2.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
+      "run": "pm2 start . --deep-monitoring --attach --name drexmose || node .",
+      "Itxxwasi ": "pm2 start . --deep-monitoring --attach --name drexmose || node .",
+      "start": "pm2 start . --attach --name drexmose",
+      "stop": "pm2 stop drexmose",
+      "heroku-postbuild": "git clone https://github.com/drexmose/drex-md-v2.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
+      "fis-heroku-postbuild": "git clone https://github.com/drexmose/drex-md-v2.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
    },
-   "author": "Itxxwasi",
+   "author": "drexmose",
    "license": "Apache-2.0",
    "dependencies": {
       "@adiwajshing/keyed-db": "^0.2.4",
@@ -75,10 +75,10 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/Itxxwasi/WASI-MD-V2.git"
+      "url": "git+https://drexmose/drex-md-v2.git"
    },
    "bugs": {
-      "url": "https://github.com/Itxxwasi/WASI-MD-V2/issues"
+      "url": "https://drexmose/drex-md-v2/issues"
    },
-   "homepage": "https://github.com/Itxxwasi/WASI-MD-V2#readme"
+   "homepage": "https://drexmose/drex-md-v2#readme"
 }
