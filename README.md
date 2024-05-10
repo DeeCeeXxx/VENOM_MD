@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029Vabz7vUJ3jutx2fNsf2P">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/599b125a3d5c7050ae76a.png">
+    <img alt="wasi" height="300" src="https://telegra.ph/file/50ae4c0dcae4c72fe39c3.png">
     <h1 align="center">DREX MD V2</h1>
   </a>
 </p>
@@ -9,7 +9,7 @@
 <p/>
 <p align="center">
 <a href="https://github.com/drexmosei?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/drexmose?label=Followers&style=social"></a>
-<a href="https://github.com/drexmose/drex-md-v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itxxwasi/WASI-MD-V2?&style=social"></a>
+<a href="https://github.com/drexmose/drex-md-v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/drexmose/drex-md-v2?&style=social"></a>
 <a href="https://github.com/drexmose/drex-md-v2/network/members"><img title="Fork" src="https://img.shields.io/github/forks/drexmose/drex-md-v2?style=social"></a>
 <a href="https://github.com/drexmose/drex-md-v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/drexmose/drex-md-v2?label=Watching&style=social"></a>
 </p>
