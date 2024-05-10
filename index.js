@@ -15,5 +15,5 @@ const start = async () => {
 }
 start();
 /**
-WASI TECH WHATSAPPP BOT
+DREX TECH WHATSAPPP BOT
 **/
