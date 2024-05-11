@@ -48,7 +48,7 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-𝐃𝚪𝚵𝚾-𝐌𝐃-𝐕2😍",
+  caption: process.env.CAPTION || "𝐁𝐘 𝐎𝐑𝐃𝐄𝐑 𝐎𝐅 𝐃𝚪𝚵𝚾 𝐌𝐃 𝐕2 👺",
   author: process.env.PACK_AUTHER || "𝐘𝐎𝐔𝐑 𝐏𝐀𝐏𝐀 ⟠ 𝐃𝐑𝚺𝐗 ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々\n\n+254 102074064",
   packname: process.env.PACK_NAME || "𝐒𝐓𝐈𝐂𝐊𝐄𝐑 𝐁𝐘",
   botname: process.env.BOT_NAME || "𝐃𝚪𝚵𝚾-𝐌𝐃-𝐕2",
