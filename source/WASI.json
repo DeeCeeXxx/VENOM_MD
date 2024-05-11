@@ -6,8 +6,8 @@
     "LANGCODE": "en",  
     "STRINGS": { 
         "updater": { 
-            "UPDATE": "> *Bot is up to date bruh*.",
-            "UPDATED_LOCAL": "> *Updated Bot successfully*"
+            "UPDATE": "*Bot is up to date bruh*.",
+            "UPDATED_LOCAL": "*Updated Bot successfully*"
         },  
         "global": {      
             "botName": "𝐃𝐑𝐄𝐗-𝐌𝐃-𝐕2",
@@ -20,8 +20,8 @@
             "pic5": "https://telegra.ph/file/9f5aac1b37d65de4c725c.jpg", 
             "pic6": "https://telegra.ph/file/9f5aac1b37d65de4c725c.jpg", 
             "pic7": "https://telegra.ph/file/9f5aac1b37d65de4c725c.jpg",
-            "greet" : "> *Hey there*",
-            "dotbody" : "> *Uh Sir Drex, My Creator*.",
+            "greet" : "*Hey there*",
+            "dotbody" : "*Uh Sir Drex, My Creator*.",
             "emojii" : "🍑", 
             "promote": "*ADMIN ROLE TO DREX-MD-V2*",
             "pmallow": "*Hello &user Do not Spam*",
@@ -36,10 +36,10 @@
             "by": "Made by: drex",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
             "success": "Done ✓",
-            "dot": "> *Hi, Did you mean *-help?*\n just.. don't bother me while I'm fucking*",
+            "dot": "*Hi, Did you mean *-help?*\n just.. don't bother me while I'm fucking*",
             "couple_male": "*I'm pretty sure I can't live without being helped!*",
             "couple_female": "*I'm pretty sure I can't live without being helped!*",
-            "admin": "> *𝘖𝘯𝘭𝘺 𝘎𝘳𝘰𝘶𝘱 𝘈𝘥𝘮𝘪𝘯 𝘤𝘢𝘯 𝘶𝘴𝘦 𝘵𝘩𝘪𝘴 𝘊𝘰𝘮𝘮𝘢𝘯𝘥.*",
+            "admin": "*𝘖𝘯𝘭𝘺 𝘎𝘳𝘰𝘶𝘱 𝘈𝘥𝘮𝘪𝘯 𝘤𝘢𝘯 𝘶𝘴𝘦 𝘵𝘩𝘪𝘴 𝘊𝘰𝘮𝘮𝘢𝘯𝘥.*",
             "botAdmin": "*Promote to take action.*",
             "owner": "*Are you my Owner?.*",
             "group": "*This is a group command.*",
