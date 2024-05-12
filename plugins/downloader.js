@@ -1654,7 +1654,7 @@ smd({
      }
      let _0x3b2ca6 = await yts(_0x4ec99f);
      let _0x4123ae = _0x3b2ca6.all[0];
-     let _0x5883a9 = "\t *WASI MD V2 -ᴍᴅ • sᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*   \n\n*Title :* " + _0x4123ae.title + "\nUrl : " + _0x4123ae.url + "\n*Description :* " + _0x4123ae.timestamp + "\n*Views :* " + _0x4123ae.views + "\n*Uploaded :* " + _0x4123ae.ago + "\n*Author :* " + _0x4123ae.author.name + "\n\n\n_Reply 1 for Video_ Or _1 document_\n_Reply 2 for Audio_ Or _2 document_";
+     let _0x5883a9 = "\t *DREX MD V2 -ᴍᴅ • sᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*   \n\n*Title :* " + _0x4123ae.title + "\nUrl : " + _0x4123ae.url + "\n*Description :* " + _0x4123ae.timestamp + "\n*Views :* " + _0x4123ae.views + "\n*Uploaded :* " + _0x4123ae.ago + "\n*Author :* " + _0x4123ae.author.name + "\n\n\n_Reply 1 for Video_ Or _1 document_\n_Reply 2 for Audio_ Or _2 document_";
      let _0x3885cc = await smdBuffer(_0x4123ae.thumbnail);
      var _0x44a363 = {
        ...(await _0x2c2023.bot.contextInfo(Config.botname, "ʏᴏᴜᴛᴜʙᴇ ꜱᴏɴɢ", _0x3885cc))
@@ -1969,7 +1969,7 @@ smd({
  }) => {
    if (_0xb75e78.quoted && _0xb75e78.text) {
      const _0x5b8ee5 = _0xb75e78.quoted.text.split("\n");
-     if (_0x5b8ee5[0].includes("WASI MD V2 -ᴍᴅ • sᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ")) {
+     if (_0x5b8ee5[0].includes("DREX MD V2 -ᴍᴅ • sᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ")) {
        const _0x1724ba = _0x5b8ee5.find(_0x525632 => _0x525632.startsWith("Url :"));
        let _0x43a95e = _0x1724ba.replace("Url :", "").trim();
        try {
