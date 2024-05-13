@@ -1662,7 +1662,7 @@ smd({
      await _0x2c2023.bot.sendMessage(_0x2c2023.jid, {
        image: _0x3885cc,
        caption: _0x5883a9,
-       contextInfo: _0x44a363
+       contextInfo: _0x4123ae.title
      });
    } catch (_0x86b411) {
      return _0x2c2023.error(_0x86b411 + "\n\ncommand: play", _0x86b411, "*_File not found!!_*");
@@ -1681,7 +1681,7 @@ smd({
        return await _0x1c8285.reply("*_Give Me Search Query!_*");
      }
      let _0x2878ec = await yts(_0xca939c);
-     let _0x4186e4 = "*WASI MD V2 -ᴍᴅ • ʏᴏᴜᴛᴜʙᴇ ᴅᴏᴡɴʟᴏᴀᴅ* \n*_______________________________* \n\n_Reply Any Number To Download._\n  _For Audio: 1 mp3._\n  _For Video: 1 video._\n  _For document: 1 document._\n\n_Results For : " + _0xca939c + "_ \n\n";
+     let _0x4186e4 = "*DREX MD V2 -ᴍᴅ • ʏᴏᴜᴛᴜʙᴇ ᴅᴏᴡɴʟᴏᴀᴅ* \n*_______________________________* \n\n_Reply Any Number To Download._\n  _For Audio: 1 mp3._\n  _For Video: 1 video._\n  _For document: 1 document._\n\n_Results For : " + _0xca939c + "_ \n\n";
      let _0x463366 = 1;
      for (let _0x308e22 of _0x2878ec.all) {
        _0x4186e4 += " \n*" + _0x463366++ + " : " + _0x308e22.title + (_0x308e22.timestamp ? "(" + _0x308e22.timestamp + ")" : "") + "*\n*Url : " + _0x308e22.url + "*";
