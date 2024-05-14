@@ -44,12 +44,12 @@ Join our WhatsApp support group for assistance and discussions!
 
 2.𝔾𝕖𝕥 𝕊𝕖𝕤𝕤𝕚𝕠𝕟 𝕀𝔻 (ℙ𝔸𝕀ℝ𝕀ℕ𝔾)
     <br>
-<a href='https://drexmdv2pair-e8f2fc876fb4.herokuapp.com/' target="_blank"><img alt='GET PAIRING CODE' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
+<a href='https://drexmdpairing-59fb1c1e9ab2.herokuapp.com/' target="_blank"><img alt='GET PAIRING CODE' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
 
 3.𝔾𝕖𝕥 𝕊𝕖𝕤𝕤𝕚𝕠𝕟 𝕀𝔻 (𝕊ℂ𝔸ℕ ℚℝ)
     <br>
-<a href='https://drexmdv2pair-e8f2fc876fb4.herokuapp.com/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='[https://drexmdv2pair-e8f2fc876fb4.herokuapp.com/](https://drexmdpairing-59fb1c1e9ab2.herokuapp.com/)' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
 
 #### 𝕕𝕖𝕡𝕝𝕠𝕪𝕞𝕖𝕟𝕥 𝕤𝕖𝕔𝕥𝕚𝕠𝕟
