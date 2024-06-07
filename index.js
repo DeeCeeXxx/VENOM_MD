@@ -15,5 +15,5 @@ const start = async () => {
 }
 start();
 /**
-DREX TECH WHATSAPPP BOT
+VENOM MD WHATSAPPP BOT
 **/
