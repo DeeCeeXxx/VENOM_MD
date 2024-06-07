@@ -1,4 +1,4 @@
-hrun = "npm start || yarn start || node ."
+run = "npm start || yarn start || node ."
 # stop =  "npm stop || yarn stop"
 entrypoint = "config.js"
 hidden = [".config"]
