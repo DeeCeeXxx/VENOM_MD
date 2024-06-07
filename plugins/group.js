@@ -92,7 +92,7 @@ const {
        var _0x2fe2c7 = "" + _0x2608ab + _0x3a49e9;
        var _0x539d8f = {
          externalAdReply: {
-           title: "𝐕𝐄𝐍𝐎𝐌_𝐌𝐃",
+           title: "𝐕𝐄𝐍𝐎𝐌 𝐌𝐃",
            body: "" + _0x37b490,
            renderLargerThumbnail: true,
            thumbnail: log0,
