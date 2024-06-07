@@ -1,19 +1,19 @@
 {
-   "name": "drex-md-v2",
+   "name": "VENOM_MD",
    "version": "2.5.0",
-   "description": "Multi device whatsapp bot by drexmose",
+   "description": "Multi device whatsapp bot by Hammy254",
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
-      "run": "pm2 start . --deep-monitoring --attach --name drexmose || node .",
-      "Itxxwasi ": "pm2 start . --deep-monitoring --attach --name drexmose || node .",
-      "start": "pm2 start . --attach --name drexmose",
-      "stop": "pm2 stop drexmose",
-      "heroku-postbuild": "git clone https://github.com/drexmose/drex-md-v2.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
-      "fis-heroku-postbuild": "git clone https://github.com/drexmose/drex-md-v2.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
+      "run": "pm2 start . --deep-monitoring --attach --name Hammy254 || node .",
+      "Itxxwasi ": "pm2 start . --deep-monitoring --attach --name Hammy254 || node .",
+      "start": "pm2 start . --attach --name Hammy254",
+      "stop": "pm2 stop Hammy254",
+      "heroku-postbuild": "git clone https://github.com/Hammy254/VENOM_MD.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
+      "fis-heroku-postbuild": "git clone https://github.com/Hammy254/VENOM_MD.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
    },
-   "author": "drexmose",
+   "author": "Hammy254",
    "license": "Apache-2.0",
    "dependencies": {
       "@adiwajshing/keyed-db": "^0.2.4",
@@ -75,10 +75,10 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://drexmose/drex-md-v2.git"
+      "url": "git+https://Hammy254/VENOM_MD.git"
    },
    "bugs": {
-      "url": "https://drexmose/drex-md-v2/issues"
+      "url": "https://Hammy254/VENOM_MD/issues"
    },
-   "homepage": "https://drexmose/drex-md-v2#readme"
+   "homepage": "https://Hammy254/VENOM_MD#readme"
 }
