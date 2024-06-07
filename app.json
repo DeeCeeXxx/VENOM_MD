@@ -1,15 +1,15 @@
 {
-  "name": "drex-md-v2",
+  "name": "VENOM_MD",
   "description": "Simple WhatsApp Bot",
-  "logo": "https://github.com/drexmose/drex-md-v2/blob/main/lib/assets/logo.png?raw=true",
-  "keywords": ["drex-d-v2", "drexv2", "drex md","drex client","drex","drextech"],
+  "logo": "https://github.com/Hammy254/VENOM_MD/blob/main/lib/assets/logo.png?raw=true",
+  "keywords": ["VENOM MD", "VENOM", "VENOM md","VENOM_MD","Venom","Venom md"],
   "success_url": "/",
   "stack": "container",
 
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "⟠ 𝐃𝐑𝚺𝐗 ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々",
+      "value": "𝐇𝐀𝐌𝐌𝐘",
       "required": true
     },
 
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "𝐃𝐑𝐄𝐗-𝐌𝐃-𝐕2"
+      "value": "𝐕𝐄𝐍𝐎𝐌_𝐌𝐃"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -67,7 +67,7 @@
     "USER_IMAGES": {
       "description": "Insert your bot image url here",
       "required": false,
-      "value": "https://telegra.ph/file/50ae4c0dcae4c72fe39c3.png"
+      "value": "https://telegra.ph/file/da2669bc8a17745835d32.jpg"
     },
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot view your Statuses.",
@@ -95,7 +95,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "254102074064"
+      "value": "254737991043"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -107,12 +107,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "𝐃𝐑𝐄𝐗 𝐌𝐃 𝐕2",
+      "value": "𝐕𝐄𝐍𝐎𝐌 𝐌𝐃",
       "required": false
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "𝐃𝐑𝐄𝐗 𝐌𝐃 𝐕2",
+      "value": "𝐕𝐄𝐍𝐎𝐌 𝐌𝐃",
       "required": false
     }
   },
