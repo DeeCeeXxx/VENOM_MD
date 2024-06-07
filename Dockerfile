@@ -1,6 +1,6 @@
 FROM quay.io/sampandey001/secktor
 
-RUN git clone https://github.com/drexmose/drex-md-v2.git /root/Itxxwasi
+RUN git clone https://github.com/Hammy254/VENOM_MD.git /root/Itxxwasi
 
 # Clear npm cache and remove node_modules directories
 RUN npm cache clean --force
