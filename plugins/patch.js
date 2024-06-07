@@ -188,7 +188,7 @@ smd(
           }
         }
 
-        return await message.send("`𝐃𝐑𝐄𝐗 𝐌𝐃 UPDATE WAS SUCCESSFULL ✅`");
+        return await message.send("`𝐕𝐄𝐍𝐎𝐌_𝐌𝐃 UPDATE WAS SUCCESSFULL ✅`");
       } else {
         return await message.send(
           "*Auto Updated Failed, Unable to Download Update Please Manually Do It*"
@@ -315,10 +315,12 @@ ${menuThemeCommandPrefix} *ʀᴀᴍ ᴜsᴀɢᴇ:* ${formatp(os.totalmem() - os.
 ${menuThemeCommandPrefix} *ᴛɪᴍᴇ:* ${currentTime}
 ${menuThemeCommandPrefix} *ᴅᴀᴛᴇ:* ${currentDate}
 ${menuThemeCommandPrefix} *ᴄᴏᴍᴍᴀɴᴅs:* ${commands.length}
-${menuThemeCommandPrefix} *ᴜsᴀɢᴇ ᴛʀᴇɴᴅ:* ${trend_usage}
-${menuThemeCommandPrefix} *ᴅᴀᴛᴀʙᴀsᴇ:* ${database_info}
-${menuThemeFooter}                         
-𝐃𝐑𝐄𝐗-𝐌𝐃-𝐕2
+${menuThemeFooter}  
+
+  ▎▍▌▌▉▏▎▌▉▐▏▌
+  ▎▍▌▌▉▏▎▌▉▐▏▌
+    𝐕𝐄𝐍𝐎𝐌_𝐌𝐃
+▰▰▰▰▰▰▰▰▰▰▰▰ 
 ${readmore}`;
 
       for (const category in categorizedCommands) {
@@ -561,7 +563,7 @@ smd(
       const designs = [
         async () => {
           const imageBuffer = await axios.get(
-            "https://telegra.ph/file/d9fb019f63ef3b1d47c6e.jpg",
+            "https://telegra.ph/file/46f3c7d665ba8c15380fe.jpg",
             {
               responseType: "arraybuffer",
             }
@@ -578,13 +580,13 @@ smd(
           const quoteText = `\n\n*"${quote.result.body}"*\n_- ${quote.result.author}_`;
           const end = new Date().getTime();
           const pingSeconds = (end - start) / 1000;
-          const captionText = `𝙳𝚁𝙴𝚇 𝙼𝙳 𝚅2\n\n*Ping:* ${pingSeconds} seconds${quoteText}\n\n𝙳𝚁𝙴𝚇 𝙼𝙳 𝚅𝟸`;
+          const captionText = `VENOM_MD\n\n*Ping:* ${pingSeconds} seconds${quoteText}\n\nVENOM MD`;
 
           return { image: imageBuffer.data, caption: captionText };
         },
         async () => {
           const imageBuffer = await axios.get(
-            "https://telegra.ph/file/614dc2d689d3290b54be8.png",
+            "https://telegra.ph/file/da2669bc8a17745835d32.jpg",
             {
               responseType: "arraybuffer",
             }
@@ -600,13 +602,13 @@ smd(
 
           const end = new Date().getTime();
           const pingSeconds = (end - start) / 1000;
-          const captionText = `𝙳𝚁𝙴𝚇 𝙼𝙳 𝚅2 \n\n*Ping:* ${pingSeconds} seconds\n\n*Fact:*\n${fact.result.fact}\n\n𝙳𝚁𝙴𝚇 𝙼𝙳 𝚅𝟸`;
+          const captionText = `VENOM MD \n\n*Ping:* ${pingSeconds} seconds\n\n*Fact:*\n${fact.result.fact}\n\nVENOM MD`;
 
           return { image: imageBuffer.data, caption: captionText };
         },
         async () => {
           const imageBuffer = await axios.get(
-            "https://telegra.ph/file/d9fb019f63ef3b1d47c6e.jpg",
+            "https://telegra.ph/file/cc37092cdc5862e978658.jpg",
             {
               responseType: "arraybuffer",
             }
@@ -622,7 +624,7 @@ smd(
 
           const end = new Date().getTime();
           const pingSeconds = (end - start) / 1000;
-          const captionText = `𝐃𝐑𝐄𝐗-𝐌𝐃-𝐕2\n\n*Ping:* ${pingSeconds} seconds\n\n*Line:*\n${line.result}\n\n𝗕𝗬 ⟠ 𝐃𝐑𝚺𝐗 ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々`;
+          const captionText = `VENOM_MD\n\n*Ping:* ${pingSeconds} seconds\n\n*Line:*\n${line.result}\n\n𝗕𝗬 𝐇𝐀𝐌𝐌𝐘`;
 
           return { image: imageBuffer.data, caption: captionText };
         },
@@ -669,13 +671,13 @@ smd(
 
       const ramUsage = process.memoryUsage().heapTotal / 1024 / 1024;
 
-      const message = `𝐃𝐑𝐄𝐗-𝐌𝐃-𝐕2 𝐇𝐚𝐬 𝐁𝐞𝐞𝐧 𝐀𝐜𝐭𝐢𝐯𝐞 𝐅𝐨𝐫:* ${uptimeHours}h ${uptimeMinutes}ᴍ ${uptimeSeconds}s\n \t_ʜᴇʀᴇ's ᴍᴏʀᴇ ɪɴғᴏ_\n*ʀᴀᴍ ᴜsᴀɢᴇ:* ${ramUsage.toFixed(2)} MB\n*ᴄᴘᴜ ɴᴀᴍᴇ:* ${cpuModel}`;
+      const message = `𝐕𝐄𝐍𝐎𝐌_𝐌𝐃 𝐇𝐚𝐬 𝐁𝐞𝐞𝐧 𝐀𝐜𝐭𝐢𝐯𝐞 𝐅𝐨𝐫:* ${uptimeHours}h ${uptimeMinutes}ᴍ ${uptimeSeconds}s\n \t_ʜᴇʀᴇ's ᴍᴏʀᴇ ɪɴғᴏ_\n*ʀᴀᴍ ᴜsᴀɢᴇ:* ${ramUsage.toFixed(2)} MB\n*ᴄᴘᴜ ɴᴀᴍᴇ:* ${cpuModel}`;
       const contextInfo = {
         isForwarded: true,
         forwardingScore: 999,
-        title: "Drex MD Running Since",
+        title: "VENOM_MD Running Since",
         body: message,
-        footerText: "Drex MD 2024",
+        footerText: "VENOM_MD 2024",
         isSendNotificationMsg: true,
         mentionedJid: [],
       };
@@ -696,7 +698,7 @@ astro_patch.cmd({
       const {
         commands: _0x7cfe13
       } = require("../lib");
-      let _0x95885d = "\n\t𝐃𝐑𝐄𝐗-𝐌𝐃 𝗖𝗠𝗗𝗜𝗡𝗙𝗢  \n";
+      let _0x95885d = "\n\t𝐕𝐄𝐍𝐎𝐌_𝐌𝐃 𝗖𝗠𝗗𝗜𝗡𝗙𝗢  \n";
       for (let _0x2bd72c = 0; _0x2bd72c < _0x7cfe13.length; _0x2bd72c++) {
         if (_0x7cfe13[_0x2bd72c].pattern == undefined) {
           continue;
