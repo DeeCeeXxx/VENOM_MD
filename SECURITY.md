@@ -1,4 +1,4 @@
-h# Security Notice
+# Security Notice
 
 ## Supported Versions Node Versions to run this bot
 
